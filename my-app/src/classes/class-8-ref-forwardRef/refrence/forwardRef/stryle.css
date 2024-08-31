@@ -1,0 +1,12 @@
+.fancyBtn {
+    padding: 10px;
+    background-color: aqua;
+}
+.fancyBtn:hover {
+    background-color: brown;
+}
+.fancyBtn:focus {
+    background-color: rgb(1, 247, 42);
+    outline:none;
+}
+
