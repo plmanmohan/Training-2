@@ -1,0 +1,11 @@
+.container {
+  background-color: aqua;
+}
+.head{
+  color: Red;
+}
+
+p {
+  font-weight: 600;
+  color: yellow
+}
