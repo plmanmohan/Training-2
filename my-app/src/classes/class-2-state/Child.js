@@ -9,6 +9,7 @@ class Child extends Component {
       userName: "",
       age: "",
       class: "",
+      name: "",
     };
     this.handleOnchange = this.handleOnchange.bind(this);
   }
