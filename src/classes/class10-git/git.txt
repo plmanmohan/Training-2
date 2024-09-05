@@ -1,0 +1,47 @@
+git clone
+git status
+
+git add -----> add files to stage
+git commit
+git reset
+git revert
+
+git branch
+git checkout
+
+git merge
+git push
+git pull
+git stash
+
+git diff
+git config
+git init
+git rm
+git log
+git show
+git tag
+git remote
+
+
+git config
+Usage: git config –global user.name “[name]”  
+Usage: git config –global user.email “[email address]”
+
+git add [file]
+git add *
+
+git commit -m “[ Type in the commit message]”
+git checkout [branch name]  
+git checkout -b [branch name]  
+
+git merge [branch name]
+git push
+git push –all
+
+git pull [Repository Link] 
+
+git stash save  
+git stash pop
+git stash list
+git stash drop
